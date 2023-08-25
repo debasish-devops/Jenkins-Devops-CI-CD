@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: debasishdevops2023/devopslearn2023:replaceImageTag
+        image: debasishdevops2023/devopslearn2023:4
         ports:
         - containerPort: 8080
